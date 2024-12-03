@@ -1,1 +1,1 @@
-* xref:topics/keshaws.adoc[]
+* xref:build-and-deploy/topics/keshaws.adoc[]
