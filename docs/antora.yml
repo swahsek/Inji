@@ -1,6 +1,6 @@
-name: inji-docs
-title: Inji Docs
+name: inji-docs-antora
+title: Inji Docs Antora
 version: 1.0
-start_path: docs/inji-certify
+start_path: docs
 nav:
   - topics/nav.adoc
