@@ -1,0 +1,7 @@
+name: Inji Docs
+title: Inji Docs
+version: main
+start page: README.adoc
+nav:
+- inji-certify/nav.adoc
+- inji-verify/nav.adoc
