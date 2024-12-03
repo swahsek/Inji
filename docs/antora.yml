@@ -3,4 +3,4 @@ title: Inji Docs
 version: 1.0
 start_path: docs/inji-certify
 nav:
-  - build-and-deploy/topics/nav.adoc
+  - topics/nav.adoc
