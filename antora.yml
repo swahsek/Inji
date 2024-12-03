@@ -1,7 +1,7 @@
 name: inji-docs
 title: Inji Docs
 version: main
-start page: index.adoc
+start path: docs
 asciidoc:
   attributes:
     source-language: asciidoc@
