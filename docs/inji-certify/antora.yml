@@ -2,4 +2,4 @@ name: inji-docs
 title: Inji Docs
 version: 1.0
 nav:
-  - build-and-deploy/inji-certify/nav.adoc
+  - inji-certify/build-and-deploy/nav.adoc
